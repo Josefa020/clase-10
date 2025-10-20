@@ -1,22 +1,24 @@
 [
                  
                 {
-                    "titulo": "Memorabilia",
-                    "categoria": "Fanzine experimental",
-                    "imagen": "img/memorabilia.jpg",
-                    "alt": "Memorabilia"
+                    "titulo": "De pétalo a flor",
+                    "categoria": "Estratégico",
+                    "imagen": "img/imagen 1.jpg",
+                    "alt": "Flor"
+                    
                 },
                 {
-                    "titulo": "Visualización de datos",
-                    "categoria": "Museo Histórico Nacional",
-                    "imagen": "img/museo.jpg",
-                    "alt": "Museo"
+                    "titulo": "Noctu",
+                    "categoria": "Industrial",
+                    "imagen": "img/imagen 2.jpg",
+                    "alt": "Noctu"
                 },
                 {
-                    "titulo": "Feiky",
-                    "categoria": "App especulativa",
-                    "imagen": "ihttps://github.com/Josefa020/Evaluacion-2/blob/main/img/imagen%201.jpg?raw=true",
-                    "alt": "Feiky"
+                    "titulo": "Boomerang",
+                    "categoria": "Biomateriales",
+                    "imagen": "img/imagen 3.jpg"
+                    "alt": "Noctu",
+
                 },
                 {
                     "titulo": "Prímula",
@@ -55,5 +57,45 @@
                     "alt": "Frozzies"
                 }
             ]
+
+[
+      {
+        "title": "De pétalo a flor",
+        "category":"Estratégico",
+        "photo": "img/imagen 1.jpg",
+        "description": " Proyecto realizado en el curso ´Usabilidad y experiencia de usuario  donde a través de un proceso de diseño centrado en el usuario, definimos el funcionamiento y diseño de una plataforma digital orientada a mejorar el diagnóstico de enfermedades genéticas con IA.",
+      },
+      {
+        "title": "Noctu",
+        "category": "Industrial",
+        "photo": "img/imagen 2.jpg",
+        "description": "El proyecto páginas amarillas busca digitalizar el proceso de búsqueda de prestadores de servicios domésticos en una sola plataforma con una base de datos centralizada y un sistema de puntuación para generar confianza en los usuarios."
+      },
+      {
+        "title": "Boomerang",
+        "category": "Biomateriales",
+        "photo": "img/imagen 3.jpg",
+        "description": "Proyecto escrito, diseñado y encuadernado para el ramo ´Diseño editorial´. El libro explora la historia, impacto del labial rojo desde las antiguas civilizaciones hasta hoy.",
+      },
+      {
+        "title": "Chile en 7 pilares",
+        "category": "Estratégico",
+        "photo": "img/imagen 4.jpg",
+        "description": " Proyecto realizado en segundo año de carerra para el ramo ´Referentes y tendencias del diseño gráfico",
+      },
+      {
+        "title": "Microondas",
+        "category": "Industrial",
+        "photo": "img/imagen 5.jpg",
+        "description": " otro trabajo muy especial que realicé en otro curso",
+      },
+      {
+        "title": "Alicate Universal",
+        "category": "Industrial",
+        "photo": "img/imagen 6.jpg",
+        "description": "Un proyecto distinto con un resultado increible",
+      },
+
+]
 
 
