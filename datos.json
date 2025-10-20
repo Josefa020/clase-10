@@ -2,37 +2,33 @@
   {
     "title": "De pétalo a flor",
     "category": "Estratégico",
-    "photo": "img/imagen 1.jpg",
-    "description": "Proyecto realizado en el curso ‘Usabilidad y experiencia de usuario’, donde a través de un proceso de diseño centrado en el usuario, definimos el funcionamiento y diseño de una plataforma digital orientada a mejorar el diagnóstico de enfermedades genéticas con IA."
+    "photo": "img/imagen 1.jpg"
   },
   {
     "title": "Noctu",
     "category": "Industrial",
-    "photo": "img/imagen 2.jpg",
-    "description": "El proyecto Páginas Amarillas busca digitalizar el proceso de búsqueda de prestadores de servicios domésticos en una sola plataforma con una base de datos centralizada y un sistema de puntuación para generar confianza en los usuarios."
+    "photo": "img/imagen 2.jpg"
   },
   {
     "title": "Boomerang",
     "category": "Biomateriales",
-    "photo": "img/imagen 3.jpg",
-    "description": "Proyecto escrito, diseñado y encuadernado para el ramo ‘Diseño editorial’. El libro explora la historia e impacto del labial rojo desde las antiguas civilizaciones hasta hoy."
+    "photo": "img/imagen 3.jpg"
   },
   {
     "title": "Chile en 7 pilares",
     "category": "Estratégico",
-    "photo": "img/imagen 4.jpg",
-    "description": "Proyecto realizado en segundo año de carrera para el ramo ‘Referentes y tendencias del diseño gráfico’."
+    "photo": "img/imagen 4.jpg"
   },
   {
     "title": "Microondas",
     "category": "Industrial",
-    "photo": "img/imagen 5.jpg",
-    "description": "Otro trabajo muy especial que realicé en otro curso."
+    "photo": "img/imagen 5.jpg"
+    
   },
   {
     "title": "Alicate Universal",
     "category": "Industrial",
-    "photo": "img/imagen 6.jpg",
-    "description": "Un proyecto distinto con un resultado increíble."
+    "photo": "img/imagen 6.jpg"
+    
   }
 ]
