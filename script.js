@@ -29,4 +29,5 @@ async function datos(raw) {
     }
 }
 
-datos("https://raw.githubusercontent.com/Josefa020/clase-10/refs/heads/main/datos.json")
+datos("https://josefa020.github.io/clase-10/datos.json");
+
