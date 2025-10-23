@@ -8,28 +8,29 @@
   {
     "title": "Noctu",
     "category": "Industrial",
-    "photo": "img/imagen 2.jpg"
+    "photo": "https://josefa020.github.io/clase-10/img/imagen%202.jpg"
+
   },
   {
     "title": "Boomerang",
     "category": "Biomateriales",
-    "photo": "img/imagen 3.jpg"
+    "photo": "https://josefa020.github.io/clase-10/img/imagen%203.jpg"
   },
   {
     "title": "Chile en 7 pilares",
     "category": "Estratégico",
-    "photo": "img/imagen 4.jpg"
+    "photo": "https://josefa020.github.io/clase-10/img/imagen%204.jpg"
   },
   {
     "title": "Microondas",
     "category": "Industrial",
-    "photo": "img/imagen 5.jpg"
+    "photo": "https://josefa020.github.io/clase-10/img/imagen%205.jpg"
     
   },
   {
     "title": "Alicate Universal",
     "category": "Industrial",
-    "photo": "img/imagen 6.jpg"
+    "photo": "https://josefa020.github.io/clase-10/img/imagen%206.jpg"
     
   }
 ]
